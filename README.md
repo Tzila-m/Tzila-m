@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Tzila-m/Tzila-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tzili Menkes** -- Embedded Software Developer
 
-Here are some ideas to get you started:
+I am a Software Development Graduate specializing in **Embedded
+Systems**, with strong hands-on experience in **C**, **Embedded
+development**, **OOP**, and **Git/GitHub**.\
+I also have experience in **Full Stack development** from my studies.\
+Motivated to join a professional engineering team and contribute to
+real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------
+
+## 🛠️ Key Technical Skills
+
+  -----------------------------------------------------------------------
+  Category                            Technologies
+  ----------------------------------- -----------------------------------
+  **Languages**                       C, C++, Java, C#
+
+  **Tools & OS**                      Git, GitHub, Visual Studio, VS
+                                      Code, WSL
+
+  **Embedded & Standards**            Embedded Systems, MISRA C, Data
+                                      Structures, Image Processing
+
+  **Databases**                       SQL Server, MongoDB
+
+  **Web & APIs**                      Full Stack Concepts, Postman
+
+  
+-----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Projects
+ 
+### Embedded Coop Library https://github.com/Tzila-m/COOP.git
+
+Developed and extended a CMake-based COOP library that implements
+object-oriented patterns in C.
+
+### Image Processing Tetris Game
+
+Python & OpenCV project implementing full game logic with a clear
+modular architecture.
+
+------------------------------------------------------------------------
+
+## 📬 Contact
+
+**Email:** tzmenkes832@gmail.com

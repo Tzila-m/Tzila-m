@@ -1,9 +1,8 @@
 # Hi there 👋
 
-I'm **Tzili Menkes** -- Embedded Software Developer
+I'm **Tzili Menkes** --  Software Developer
 
-I am a Software Development Graduate specializing in **Embedded
-Systems**, with strong hands-on experience in **C**, **Embedded
+I am a Software Development Graduate specializing in with strong hands-on experience in **C**, **Embedded
 development**, **OOP**, and **Git/GitHub**.\
 I also have experience in **Full Stack development** from my studies.\
 Motivated to join a professional engineering team and contribute to
